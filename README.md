@@ -30,14 +30,14 @@ Programa exclusivo do ignite, promovido pela Rocketseat para ensino de tecnologi
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 - HTML e CSS
-- JavaScript
+- JavaScript / TypeScript
 - Git e Github
-- Vite / React.js
+- Vite / React.js 
 - Phosphor Icons
 
 ## 💻 Projeto
 
-Esse projeto tem como intuito ser sobre meu estudo sobre React, onde aprendo sobre fundamentos como componentes, propriedades e estados, também tipos de aplicações  SPA e SSR e sobre Compilers & Bundlers.
+Esse projeto tem como intuito passar no primeiro teste da rocketseat onde botamos em prática tudo que foi nos ensinados no decorrer do primeiro modulo, estilizando paginas, criando componentes, utilizando o conceito de estado.
 
 - [Acesse o projeto finalizado, online]()
 
