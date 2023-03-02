@@ -3,6 +3,7 @@
     display: flex;
     justify-content: center;
     padding: 4.76rem 0;
+    width: 100%;
 }
 
 .header img {

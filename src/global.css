@@ -8,12 +8,17 @@
     --gray-700: #0D0D0D;
 
     --purple: #8284FA;
-    --purpleDark: #5E60CE;
+    --purple-dark: #5E60CE;
 
     --blue: #4EA8DE;
-    --blueDark: #1E6F9F;
+    --blue-dark: #1E6F9F;
 
     --danger: #E25858;
+}
+
+:focus {
+    outline: transparent;
+    box-shadow: 0 0 0 1px var(-purple-dark);
 }
 
 * {
@@ -32,4 +37,10 @@ body, input, textarea, button {
     font-family: 'Inter', sans-serif;
     font-weight: 400;
     font-size: 1rem;
+}
+
+@media (max-width: 768px) {
+	html {
+		font-size: 87.5%;
+	}
 }
