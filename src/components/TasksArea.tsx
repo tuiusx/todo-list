@@ -6,8 +6,9 @@ import styles from './TasksAreas.module.css'
 export function TasksArea() {
     return (
         <>
-            <form>
-                <input 
+            <form className={styles.form}>
+                <input
+                    className={styles.input}
                     type="text"
                     placeholder='Adicione uma nova tarefa'
                 />
