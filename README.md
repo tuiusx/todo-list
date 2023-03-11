@@ -1,7 +1,7 @@
 <h1 align="center"> ToDo List </h1>
 
 <h3 align="center"> 
-	🚧  React Vite 🚀 Em construção...  🚧
+	🚧  React Vite 🚀 Finalizado  🚧
 </h3><br/>
 
 <p align="center">
@@ -32,18 +32,32 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - HTML e CSS
 - JavaScript / TypeScript
 - Git e Github
-- Vite / React.js 
-- Phosphor Icons
+- [Vite / React.js](https://vitejs.dev/guide/)
+- [Phosphor Icons](https://www.npmjs.com/package/phosphor-react)
+- [UUID](https://www.npmjs.com/package/uuid)
 
 ## 💻 Projeto
 
 Esse projeto tem como intuito passar no primeiro teste da rocketseat onde botamos em prática tudo que foi nos ensinados no decorrer do primeiro modulo, estilizando paginas, criando componentes, utilizando o conceito de estado.
 
-- [Acesse o projeto finalizado, online]()
+<p>
+  <img alt="ToDo List" src="./src/assets/1.png" width="100%">
+</p>
+<p>
+  <img alt="ToDo List" src="./src/assets/2.png" width="100%">
+</p>
+<p>
+  <img alt="ToDo List" src="./src/assets/3.png" width="100%">
+</p>
+<p>
+  <img alt="ToDo List" src="./src/assets/4.png" width="100%">
+</p>
+
+- [Acesse o projeto finalizado, online](https://tuiusx.github.io/todo-list/)
 
 
 
-# Sobre o desafio
+## Sobre o desafio
 
 Nesse desafio, você vai desenvolver uma aplicação de controle de tarefas no estilo **to-do list**, que contém as seguintes funcionalidades:
 
